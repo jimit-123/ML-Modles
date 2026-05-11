@@ -137,4 +137,4 @@ Passionate about Artificial Intelligence, Machine Learning, and building real-wo
 
 Feel free to star the repository and connect with me on LinkedIn.
 
-Linkdin - https://www.linkedin.com/in/jimit-makwana
+Linkdin - https://www.linkedin.com/in/jimit-makwana-49942b2b6/
